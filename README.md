@@ -1,4 +1,18 @@
-# webring.wonderful.software
+<!-- CYTECH_README_REFRESH:START -->
+<div align="center">
+<a href="https://github.com/Namnarak/webring"><img width="100%" alt="Webring banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:10202B,100:0EA5E9&height=210&section=header&text=Webring&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=A%20community-driven%20directory%20of%20personal%20websites&descAlignY=59&descSize=16"></a>
+
+<img alt="Project: Community Project" src="https://img.shields.io/badge/PROJECT-Community%20Project-0EA5E9?style=flat-square&labelColor=10202B"> <img alt="Stack: HTML · Community" src="https://img.shields.io/badge/STACK-HTML%20%C2%B7%20Community-0EA5E9?style=flat-square&labelColor=10202B">
+
+<a href="https://github.com/Namnarak/webring">Source</a> · <a href="https://github.com/Namnarak/webring/issues">Issues</a> · <a href="https://github.com/Namnarak/webring/releases">Releases</a>
+
+</div>
+<!-- CYTECH_README_REFRESH:END -->
+
+---
+
+> [!NOTE]
+> The original [wonderfulsoftware/webring](https://github.com/wonderfulsoftware/webring) project and its contribution rules are credited in the documentation below.
 
 [“วงแหวนเว็บ”](https://webring.wonderful.software) แห่งนี้สร้างขึ้นเพื่อส่งเสริมให้ศิลปิน นักออกแบบ และนักพัฒนาชาวไทย สร้างเว็บไซต์ของตัวเองและแบ่งปันการเข้าชมซึ่งกันและกัน
 
