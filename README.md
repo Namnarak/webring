@@ -2,6 +2,8 @@
 <div align="center">
 <a href="https://github.com/Namnarak/webring"><img width="100%" alt="Webring banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:10202B,100:0EA5E9&height=210&section=header&text=Webring&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=A%20community-driven%20directory%20of%20personal%20websites&descAlignY=59&descSize=16"></a>
 
+<p><img src="webring.svg" width="140" alt="webring logo" /></p>
+
 <img alt="Project: Community Project" src="https://img.shields.io/badge/PROJECT-Community%20Project-0EA5E9?style=flat-square&labelColor=10202B"> <img alt="Stack: HTML · Community" src="https://img.shields.io/badge/STACK-HTML%20%C2%B7%20Community-0EA5E9?style=flat-square&labelColor=10202B">
 
 <a href="https://github.com/Namnarak/webring">Source</a> · <a href="https://github.com/Namnarak/webring/issues">Issues</a> · <a href="https://github.com/Namnarak/webring/releases">Releases</a>
@@ -92,3 +94,19 @@
 ## แรงบันดาลใจ
 
 วงแหวนเว็บนี้ได้รับแรงบันดาลใจจาก [XXIIVV/webring](https://github.com/XXIIVV/webring)
+
+---
+
+<!-- CYTECH_STAR_HISTORY:START -->
+
+## Star History
+
+<a href="https://star-history.dera.page/#Namnarak/webring&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Namnarak/webring&type=date&legend=top-left&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Namnarak/webring&type=date&legend=top-left" />
+    <img alt="GitHub star history for Namnarak/webring" src="https://star-history.dera.page/svg?repos=Namnarak/webring&type=date&legend=top-left" width="800" />
+  </picture>
+</a>
+
+<!-- CYTECH_STAR_HISTORY:END -->
